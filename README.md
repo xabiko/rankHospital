@@ -1,5 +1,5 @@
 #Hospital ranking scripts
-Ranking Hospitals by mortality rates on Heart Attack, Heart Failure & Pneumonia.
+Ranking Hospitals by mortality rates of Heart Attack, Heart Failure & Pneumonia.
 
 ###This repo contains 6 files:
 * Hospital_Revised_Flatfiles.pdf : document describing the 30 different tables provided by the Hospital Compare database. We'll be using Outcome of Care Measures.csv
